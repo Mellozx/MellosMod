@@ -1,7 +1,8 @@
-<h1 align="center">Mello's Mod</h1>
+<p align="center"> 
+  <img  align="right" src="https://github.com/Mellozx/MellosMod/blob/Master/Textures/icon-mellosmod.png" width="1280" height="240">
+ </p>
 <h3 align="center">A General Minecraft Content Mod</h3>
 
-![image](https://github.com/Mellozx/MellosMod/Textures/icon-mellosmod)
 
 
 
