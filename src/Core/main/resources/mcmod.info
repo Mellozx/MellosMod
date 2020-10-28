@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MellosMod",
+  "name": "Mello's Mod",
+  "description": "General Content mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mello"],
+  "credits": "Mello",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
